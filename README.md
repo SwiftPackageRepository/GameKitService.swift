@@ -11,7 +11,6 @@ GameKitService is **created and maintaned with ❥** by Sascha Muellner.
 [![License](https://img.shields.io/github/license/SwiftPackageRepository/GameKitService.swift)](https://github.com/SwiftPackageRepository/GameKitService.swift/blob/main/LICENSE)
 ![Version](https://img.shields.io/github/v/tag/SwiftPackageRepository/GameKitService.swift)
 [![Swift Version](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2FSwiftPackageRepository%2FGameKitService.swift%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/SwiftPackageRepository/GameKitService.swift)
-
 [![SPM compatible](https://img.shields.io/badge/SPM-compatible-orange.svg?style=flat)](https://github.com/apple/swift-package-manager)
 [![README](https://img.shields.io/badge/-README-lightgrey)](https://SwiftPackageRepository.github.io/GameKitService.swift)
 
